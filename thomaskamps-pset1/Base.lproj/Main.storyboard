@@ -61,7 +61,6 @@
                                                 <rect key="frame" x="0.0" y="0.0" width="375" height="323.5"/>
                                             </imageView>
                                         </subviews>
-                                        <color key="backgroundColor" red="0.89402243820000005" green="1" blue="0.91507406140000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <constraints>
                                             <constraint firstItem="g4A-Fl-1yg" firstAttribute="top" secondItem="e9c-15-Bg9" secondAttribute="top" id="0Zz-Aj-wPP"/>
                                             <constraint firstAttribute="bottom" secondItem="SFc-4S-yD4" secondAttribute="bottom" id="1yz-nn-C33"/>
@@ -139,7 +138,6 @@
                                                                                 <nil key="highlightedColor"/>
                                                                             </label>
                                                                         </subviews>
-                                                                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                                                     </view>
                                                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="NjQ-R9-EAO">
                                                                         <rect key="frame" x="0.0" y="65" width="188" height="64.5"/>
@@ -159,7 +157,6 @@
                                                                                 <nil key="highlightedColor"/>
                                                                             </label>
                                                                         </subviews>
-                                                                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                                                     </view>
                                                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="AmJ-GQ-5K7">
                                                                         <rect key="frame" x="0.0" y="129.5" width="188" height="65"/>
@@ -179,7 +176,6 @@
                                                                                 <nil key="highlightedColor"/>
                                                                             </label>
                                                                         </subviews>
-                                                                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                                                     </view>
                                                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="5gz-P4-X7Q">
                                                                         <rect key="frame" x="0.0" y="194.5" width="188" height="64.5"/>
@@ -199,7 +195,6 @@
                                                                                 <nil key="highlightedColor"/>
                                                                             </label>
                                                                         </subviews>
-                                                                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                                                     </view>
                                                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Pnh-Gm-HVt">
                                                                         <rect key="frame" x="0.0" y="259" width="188" height="65"/>
@@ -219,12 +214,10 @@
                                                                                 <nil key="highlightedColor"/>
                                                                             </label>
                                                                         </subviews>
-                                                                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                                                     </view>
                                                                 </subviews>
                                                             </stackView>
                                                         </subviews>
-                                                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                                         <constraints>
                                                             <constraint firstAttribute="trailing" secondItem="m29-SN-Sbf" secondAttribute="trailing" id="V2V-of-SMW"/>
                                                             <constraint firstAttribute="bottom" secondItem="m29-SN-Sbf" secondAttribute="bottom" id="a0Z-bv-UgF"/>
@@ -256,7 +249,6 @@
                                                                                 <nil key="highlightedColor"/>
                                                                             </label>
                                                                         </subviews>
-                                                                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                                                     </view>
                                                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="5bM-la-uH8">
                                                                         <rect key="frame" x="0.0" y="65" width="188" height="64.5"/>
@@ -276,7 +268,6 @@
                                                                                 <nil key="highlightedColor"/>
                                                                             </label>
                                                                         </subviews>
-                                                                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                                                     </view>
                                                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="JkA-0L-W1l">
                                                                         <rect key="frame" x="0.0" y="129.5" width="188" height="65"/>
@@ -296,7 +287,6 @@
                                                                                 <nil key="highlightedColor"/>
                                                                             </label>
                                                                         </subviews>
-                                                                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                                                     </view>
                                                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="9sZ-tr-fSj">
                                                                         <rect key="frame" x="0.0" y="194.5" width="188" height="64.5"/>
@@ -316,7 +306,6 @@
                                                                                 <nil key="highlightedColor"/>
                                                                             </label>
                                                                         </subviews>
-                                                                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                                                     </view>
                                                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="wYM-6S-NJl">
                                                                         <rect key="frame" x="0.0" y="259" width="188" height="65"/>
@@ -336,12 +325,10 @@
                                                                                 <nil key="highlightedColor"/>
                                                                             </label>
                                                                         </subviews>
-                                                                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                                                     </view>
                                                                 </subviews>
                                                             </stackView>
                                                         </subviews>
-                                                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                                         <constraints>
                                                             <constraint firstAttribute="bottom" secondItem="1mg-yP-5Zm" secondAttribute="bottom" id="Jp0-1y-muy"/>
                                                             <constraint firstItem="1mg-yP-5Zm" firstAttribute="top" secondItem="QNB-AU-Ryn" secondAttribute="top" id="VzX-HN-psN"/>
@@ -352,7 +339,6 @@
                                                 </subviews>
                                             </stackView>
                                         </subviews>
-                                        <color key="backgroundColor" red="0.34563957763346964" green="1" blue="0.43127201919416713" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <constraints>
                                             <constraint firstItem="Fti-Z9-isr" firstAttribute="leading" secondItem="wy2-GR-hKm" secondAttribute="leading" id="0Sh-91-bO9"/>
                                             <constraint firstItem="Fti-Z9-isr" firstAttribute="top" secondItem="wy2-GR-hKm" secondAttribute="top" id="QkI-Mc-tiS"/>
